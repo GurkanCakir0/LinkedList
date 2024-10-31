@@ -1,0 +1,11 @@
+C:\Users\GURKAN\source\repos\LinkedList\LinkedList\bin\Debug\LinkedList.exe.config
+C:\Users\GURKAN\source\repos\LinkedList\LinkedList\bin\Debug\LinkedList.exe
+C:\Users\GURKAN\source\repos\LinkedList\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\GURKAN\source\repos\LinkedList\LinkedList\obj\Debug\LinkedList.csproj.AssemblyReference.cache
+C:\Users\GURKAN\source\repos\LinkedList\LinkedList\obj\Debug\LinkedList.Form1.resources
+C:\Users\GURKAN\source\repos\LinkedList\LinkedList\obj\Debug\LinkedList.Properties.Resources.resources
+C:\Users\GURKAN\source\repos\LinkedList\LinkedList\obj\Debug\LinkedList.csproj.GenerateResource.cache
+C:\Users\GURKAN\source\repos\LinkedList\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\GURKAN\source\repos\LinkedList\LinkedList\obj\Debug\LinkedList.exe
+C:\Users\GURKAN\source\repos\LinkedList\LinkedList\obj\Debug\LinkedList.pdb
+C:\Users\GURKAN\source\repos\LinkedList\LinkedList\obj\Debug\LinkedList.Form2.resources
